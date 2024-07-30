@@ -1,16 +1,21 @@
-## Hi there 👋
+## oi 👋tudo bem ? Bem vindo no meu perfil!
+ meu nome é Elisangela Spiller.
 
-<!--
-**elixxspiller/elixxspiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Estou estudando na [alura](https://www.alura.com.br)
+* Estou estudando sobre criminologia.
+* estou me desenvolvendo na línguagem Javascript.
+* utilizo esse espaço para minha organizaçÂo e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
+## voce entra em contato comigo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 00001085926424sp@al.educacao.sp.gov.br
+* @eliss.spiller
+
+<img src="https://media1.tenor.com/m/NusCa6AMymQAAAAC/enhypen-enhypen-reaction.gif" alt="Enhypen Enhypen Reaction GIF"/>![image](https://github.com/user-attachments/assets/e8c8edd1-ab0f-4662-8a27-8789c7f805de)
+
+
+
+
+
+ 
+
